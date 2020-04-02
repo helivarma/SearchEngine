@@ -6,5 +6,4 @@ Steps to Run :
 
 
 Block Diagram of project
-[2.png]
-
+(2.png)
